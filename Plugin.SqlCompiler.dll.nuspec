@@ -12,11 +12,10 @@
 		<description>Compile Microsoft SQL Assemblies for XML manipulation</description>
 		<releaseNotes></releaseNotes>
 		<copyright>Danila Korablin</copyright>
-		<tags>SAL,Plugin</tags>
+		<tags>SAL,Plugin,MsSql</tags>
 		<dependencies>
 			<group targetFramework="net48">
-				<dependency id="SAL.Flatbed" version="1.2.9" />
-				<dependency id="SAL.Windows" version="1.2.9" />
+				<dependency id="SAL.Windows" version="1.2.10" />
 			</group>
 		</dependencies>
 	</metadata>
